@@ -32,5 +32,7 @@
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:368822904668:ios:47e55f87a06e7e8c32c399</string>
+	<key>DATABASE_URL</key>
+	<string>https://academy-668jm8-default-rtdb.asia-southeast1.firebasedatabase.app</string>
 </dict>
 </plist>

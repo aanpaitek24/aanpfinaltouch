@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "368822904668",
+    "project_id": "academy-668jm8",
+    "storage_bucket": "academy-668jm8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368822904668:android:019f3b3ab7e8401a32c399",
+        "android_client_info": {
+          "package_name": "com.afefcademy.dashboardt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368822904668-3mi0u4c4up7mmbuh2oah4pg2ttlsp10l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afefcademy.dashboardt",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "368822904668-g7kj1ui8o0uha3binlvrkdmu0ppju9hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlzGAyWVCb4Xw7eGMfavgXB0hRO-E66A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368822904668-g7kj1ui8o0uha3binlvrkdmu0ppju9hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368822904668-onhsfhlku8jbt9u4lirc6k7e8k57ml6h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.afefcademy.dashboardt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
